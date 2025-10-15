@@ -1,0 +1,3 @@
+Row at y=0 is shorter than width. Filling with spaces.
+Row at y=1 is shorter than width. Filling with spaces.
+Row at y=2 is shorter than width. Filling with spaces.

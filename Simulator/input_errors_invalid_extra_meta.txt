@@ -1,0 +1,2 @@
+Unrecognized character 'B' at x=0, y=0. Treated as empty.
+Unrecognized character 'o' at x=1, y=0. Treated as empty.

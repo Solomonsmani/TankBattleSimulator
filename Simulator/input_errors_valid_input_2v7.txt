@@ -1,0 +1,2 @@
+Row at y=6 is shorter than width. Filling with spaces.
+Missing row at y=7
